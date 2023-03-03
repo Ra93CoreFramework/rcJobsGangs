@@ -21,10 +21,9 @@ THERE IS NO SUPPORT FOR rcJobsGangs AT THIS TIME DUE TO BEING UNDER DEVELOPMENT!
 If you wish to see the progress of rcJobsGangs go to www.twitch.tv/r0adra93 and you can watch rcJobsGangs progress through it's development.
 
 # License
-
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
-
+    Ra93 Core Framework
+    Copyright (C) 2023 Thomas Applegate
+    
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
