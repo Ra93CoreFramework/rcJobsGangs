@@ -1,23 +1,23 @@
-# QB-JOBS IS UNDER DEVELOPMENT
+# rcJobsGangs IS UNDER DEVELOPMENT
 ## DO NOT USE!!!!!!!!!!!!!!!!
 Universal job resource
 
 # Notice
 
-QB-JOBS IS UNDER DEVELOPMENT
+rcJobsGangs IS UNDER DEVELOPMENT
 DO NOT ADD TO YOUR SERVER
-MOST QB-CORE RESOURCES ARE BEING MADE QB-JOBS READY
-QB-JOBS WILL THROW ERRORS AS ALL RESOURCES HAVE TO BE MADE QB-JOBS READY BEFORE QB-JOBS CAN BE INTEGRATED
-QB-JOBS IS NOT EVEN IN THE ALPHA STAGE OF TESTING.
+MOST rcJobsGangs RESOURCES ARE BEING MADE rcJobsGangs READY
+rcJobsGangs WILL THROW ERRORS AS MANY RESOURCES MUST BE MADE rcJobsGangs READY BEFORE Ra93 Core CAN BE INTEGRATED
+rcJobsGangs IS NOT EVEN IN THE ALPHA STAGE OF TESTING.
 DO NOT INSTALL ON YOUR SERVER!
 
 # Support
 
-THERE IS NO SUPPORT FOR QB-JOBS AT THIS TIME DUE TO BEING UNDER DEVELOPMENT!
+THERE IS NO SUPPORT FOR rcJobsGangs AT THIS TIME DUE TO BEING UNDER DEVELOPMENT!
 
 # Progress
 
-If you wish to see the progress of qb-jobs go to www.twitch.tv/r0adra93 and you can watch qb-jobs progress through it's development.
+If you wish to see the progress of rcJobsGangs go to www.twitch.tv/r0adra93 and you can watch rcJobsGangs progress through it's development.
 
 # License
 
