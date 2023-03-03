@@ -1,6 +1,7 @@
 # rcJobsGangs IS UNDER DEVELOPMENT
 ## DO NOT USE!!!!!!!!!!!!!!!!
-Universal job resource
+
+Jobs & Gangs System for Ra93 Core Framework
 
 # Notice
 
